@@ -12,7 +12,7 @@ const Contact = () => {
     {
       icon: <MapPin className="w-6 h-6" />,
       title: 'Location',
-      content: 'San Francisco, CA'
+      content: 'Mathura,UP,India'
     }
   ];
 
